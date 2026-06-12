@@ -109,12 +109,9 @@ This dashboard helps HR teams:
 
 ## Screenshot
 
-Add your dashboard screenshot here:
-
-```text
-/images/hr-dashboard.png
-```
-
+<p align="center">
+  <img src="image/Screenshot 2026-06-13 021851.png">
+</p>
 ---
 
 ## Future Improvements
